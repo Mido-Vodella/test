@@ -1,4 +1,4 @@
-Game.loadMod("bulkBuy50", {
+Game.resgisterMod("bulkBuy50", {
 	btn50: null,
 
 	storeBulkButtonClick: function (id) {
